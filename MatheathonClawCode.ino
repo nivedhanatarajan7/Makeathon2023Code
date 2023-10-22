@@ -13,7 +13,7 @@ int finalDegrees = 90;
 int stepDegrees = -1;
 //the miliseconds between each movement of the claw
 int delaySeconds = 10;
-int motorInitialDegrees = 180;
+int motorInitialDegrees = 145;
 int motorFinalDegrees = 90;
 
 void setup() {
