@@ -1,3 +1,4 @@
+//Team members: Nivedha Natarajan, Suwu Gurung, Mohana Malapati, Ashlee Tam
 #include <Servo.h>
 
 //Name of the left claw object
